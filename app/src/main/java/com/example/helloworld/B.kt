@@ -1,4 +1,3 @@
 package com.example.helloworld
 
-class B {
-}
+data class B(val name:String,val pwd:String)
